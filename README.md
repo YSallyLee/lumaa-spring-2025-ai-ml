@@ -19,9 +19,9 @@ The dataset consists of BBC News articles categorized into topics such as:
   
 Each entry includes:
 
-* title: The article headline.
-* content: The content of the news.
-* category: The article's topic classification.
+* title: The News headline.
+* content: The content of the News.
+* category: The News' topic classification.
 
 
 ## Setup
