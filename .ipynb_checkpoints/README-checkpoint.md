@@ -50,21 +50,37 @@ The recommendation process involves:
 - Output:
   ```
   Top 5 Recommended News:
-    -> Online games play with politics (Category: tech, Similarity: 0.24)
-   After bubbling under for some time, online games broke through onto the political arena in 2004...
-    -> 'Debate needed' on donations cap (Category: politics, Similarity: 0.11)
-   A cap on donations to political parties should not be introduced yet, the elections watchdog has said...
-    -> Navratilova hits out at critics (Category: sport, Similarity: 0.1)
-   Martina Navratilova has defended her decision to prolong her tennis career at the age of 48...
-    -> UK firms 'embracing e-commerce' (Category: politics, Similarity: 0.09)
-   UK firms are embracing internet trading opportunities as never before...
-    -> Britons fed up with net service (Category: tech, Similarity: 0.08)
-   A survey conducted by PC Pro Magazine has revealed that many Britons are unhappy with their internet service...
+
+    -> online games play with politics
+    Category: tech
+    Similarity Score: 0.225
+    Preview:  after bubbling under for some time, online games broke through onto the political arena in 2004.  the us presidential election provided a showcase for many, aimed at talking directly to a generation ...
+
+    -> holmes starts 2005 with gb events
+    Category: sport
+    Similarity Score: 0.159
+    Preview:  kelly holmes will start 2005 with a series of races in britain.  holmes will make her first track appearance on home soil since winning double olympic gold in january's norwich union international in...
+
+    -> 'debate needed' on donations cap
+    Category: politics
+    Similarity Score: 0.108
+    Preview:  a cap on donations to political parties should not be introduced yet, the elections watchdog has said.  fears that big donors can buy political favours have sparked calls for a limit. in a new report...
+
+    -> uk firms 'embracing e-commerce'
+    Category: politics
+    Similarity Score: 0.097
+    Preview:  uk firms are embracing internet trading opportunities as never before, e-commerce minister mike o'brien says.  a government-commissioned study ranked the uk third in its world index of use of informa...
+
+    -> navratilova hits out at critics
+    Category: sport
+    Similarity Score: 0.094
+    Preview:  martina navratilova has defended her decision to prolong her tennis career at the age of 48.  navratilova, who made a comeback after retiring in 1994, will play doubles and mixed doubles events in 20...
   ```
 
 
 ## Video Demo 
 
+[BBC_news_demo](https://drive.google.com/file/d/1rVnphDbbZECCqJ2Hx3eoN_pSgqc0oz6I/view?usp=sharing)
 
 
 ## Salary expectation per month
